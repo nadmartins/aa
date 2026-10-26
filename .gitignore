@@ -1,0 +1,9 @@
+/.idea/
+
+/WA1-Materials/streamserver/*.class
+
+/WA1-Materials/streamproxy/*.class
+
+/WA1-Materials/common/*.class
+
+/out/
